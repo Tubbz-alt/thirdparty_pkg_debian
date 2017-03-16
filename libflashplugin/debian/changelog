@@ -1,0 +1,5 @@
+libflashplugin (25.0.0.127-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Deepin Packages Builder <packages@deepin.com>  Thu, 16 Mar 2017 16:32:25 +0800
