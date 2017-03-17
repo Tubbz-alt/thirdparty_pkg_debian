@@ -1,5 +1,5 @@
 Source: libflashplugin
-Section: utils
+Section: non-free/libs
 Priority: optional
 Maintainer: Deepin Packages Builder <packages@deepin.com>
 Build-Depends: debhelper (>= 9)
@@ -7,6 +7,7 @@ Standards-Version: 3.9.8
 Homepage: http://www.adobe.com/go/getflash 
 
 Package: libflashplugin
+Section: non-free/libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Adobe Flash Plugin
