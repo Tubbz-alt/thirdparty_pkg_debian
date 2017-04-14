@@ -1,4 +1,4 @@
 flashplugin/libflashplayer.so /usr/lib/mozilla/plugins/
-flashplugin/LGPL/ /usr/share/doc/pepperflashplugin-nonfree/
-flashplugin/license.pdf /usr/share/doc/pepperflashplugin-nonfree/
-flashplugin/readme.txt /usr/share/doc/pepperflashplugin-nonfree/  
+flashplugin/LGPL/ /usr/share/doc/libflashplugin/
+flashplugin/license.pdf /usr/share/doc/libflashplugin/
+flashplugin/readme.txt /usr/share/doc/libflashplugin/  
