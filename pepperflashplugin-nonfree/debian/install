@@ -3,3 +3,4 @@ flashplugin/manifest.json /usr/lib/pepperflashplugin-nonfree/
 flashplugin/LGPL/ /usr/share/doc/pepperflashplugin-nonfree/
 flashplugin/license.pdf /usr/share/doc/pepperflashplugin-nonfree/
 flashplugin/readme.txt /usr/share/doc/pepperflashplugin-nonfree/  
+debian/pepperflashplugin-nonfree /etc/chromium.d/
